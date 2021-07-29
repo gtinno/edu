@@ -4,7 +4,7 @@ let b = 1
 const list = ['a','b','c']
 const list2 = Array.of (1,2,3)
 
-//list[0] = 'a'
+//list[0] = 'b'
 
 let c = a + b
 // console.log(list2)
